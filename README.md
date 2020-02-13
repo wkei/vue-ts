@@ -1,4 +1,4 @@
-# vue-ts
+# vue-ts-pure
 
 ## Project setup
 ```
